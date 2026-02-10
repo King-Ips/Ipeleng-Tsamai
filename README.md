@@ -30,16 +30,6 @@
 | 🖼️ **House of Art** | My online gallery showcasing my art | [GitHub](https://github.com/ipelengtsamai/house-of-art) |
 | 💰 **Finance Skill** | Helps users sign up and log in, add a skill they want to save for, then it calculates the time needed to achieve the goal amount, depending on their  monthly contibution. | [GitHub](https://github.com/ipelengtsamai/finance-skill) |
 
----
-
-## 📊 GitHub Stats
-
-GitHub Stats show your **activity, streaks, top languages**, and contributions to open source projects.  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipelengtsamai&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipelengtsamai&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
