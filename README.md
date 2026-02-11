@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FFD700;">Hi, I'm Ipeleng Tsamai 👋🏽</h1>
 
 <p align="center">
-  💻 Web Applications | Final Year Full Stack Developer Student <br><br>
+  💻 I am a Software Developer, Final Year Full Stack Developer Student <br><br>
   🎨 Coding is art, and I'm an artist at heart 💚. Currently enjoying building apps, conceptualizing, structuring, getting stuck, and progressing until the final project is done, what an amazing journey! <br><br>
   I'm currently exploring by building projects and realizing i'm starting to love Java 💙. I went from "What even is this?" to "Oh, I get it" and I'm eager to build more programs. Along the way, I'm learning other languages and expanding my skills.
 </p>
